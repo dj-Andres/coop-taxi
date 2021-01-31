@@ -1,0 +1,13 @@
+frmLogin = 49, 36, 936, 478, C, 26, 26, 541, 393, C
+frmIngreso = 0, 0, 0, 0, C, 126, 77, 627, 495, C
+frmSocios = 173, 119, 1012, 561, C, 0, -3, 717, 606, C
+frmGestionMultas = 87, 85, 1006, 609, , 0, 0, 663, 646, C
+frmBusqueda = 52, 52, 902, 482, C, 52, 52, 554, 400, C
+frmAportaciones = 50, 50, 861, 485, C, 226, -18, 958, 632, C
+ModuloFunciones = 52, 52, 891, 494, C
+frmMultasSocios = 0, 0, 0, 0, C, 161, 29, 764, 383, C
+FrmAgregarMultas = 0, 0, 0, 0, C, 0, 0, 583, 430, C
+FrmAgregarAportaciones = 100, 100, 911, 535, C, 205, 121, 771, 501, C
+FrmCobranzasMultas = 0, 0, 811, 435, C, -1, 0, 653, 590, C
+FrmCobranzasAporatciones = 0, 19, 811, 435, C, 94, 9, 816, 562, C
+ModuloBaseDatos = 104, 104, 954, 534, CI
